@@ -1,0 +1,36 @@
+.jumbotron {
+    background-image: url(../images/platform.jpg);
+    color: #efce65;
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+    font-family:'Arvo', serif;
+    text-align: left;
+    font-weight: bold;
+}
+
+.lead {
+   text-align: left;
+   margin-left: 80px;
+    font-size: 30px;
+}
+
+.card {
+    color:#efce65;
+    background-color: #052e34;
+}
+
+#add-train-btn {
+    color:#efce65;
+    background-color: #052e34;
+    border: #052e34;
+}
+
+.table {
+    color: #052e34;
+}
+#train-name-input {
+    color: #052e34;
+}
